@@ -16,7 +16,7 @@ This repository contains the implementation of **Chicken Object Detection** usin
 ## 📂 Dataset
 - **Source**: Hayriyigit Kaggle Chicken Object Detection dataset.  
 - **Original Images**: 376  
-- **Augmented Images**: 605 → expanded to 752 using **Albumentations** (contrast adjustment, flipping, rotation).  
+- **Augmented Images**:  → expanded to 752 using **Albumentations** (contrast adjustment, flipping, rotation).  
 - **Annotations**: Created using **LabelImg (XML)** and converted into **COCO format** for Detectron2 compatibility.  
 - **Split**: Train (80%), Test (20%).  
 
